@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+.card {
+  width: 100%;
+  max-width: 560px;
+  background: white;
+  padding: 30px;
+  border-radius: 26px;
+  box-shadow: 0 18px 35px rgba(0,0,0,0.12);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.4rem;
+}
+
+.subtitle {
+  color: #6b7280;
+}
+
+.total-box {
+  margin: 24px 0;
+  padding: 24px;
+  border-radius: 20px;
+  background: #111827;
+  color: white;
+}
+
+.total-box p {
+  margin: 0;
+  color: #d1d5db;
+}
+
+.total-box h2 {
+  margin: 8px 0 0;
+  font-size: 2.5rem;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr 120px 90px;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+
+input {
+  padding: 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 14px;
+  outline: none;
+}
+
+button {
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.form button {
+  background: #22c55e;
+  color: white;
+}
+
+.expense {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f9fafb;
+  padding: 16px;
+  border-radius: 16px;
+  margin-bottom: 10px;
+}
+
+.expense h3 {
+  margin: 0;
+}
+
+.expense p {
+  margin: 4px 0 0;
+  color: #6b7280;
+}
+
+.expense button {
+  padding: 10px 14px;
+  background: #ef4444;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .form {
+    grid-template-columns: 1fr;
+  }
+
+  .form button {
+    padding: 14px;
+  }
+}
