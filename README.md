@@ -1,6 +1,6 @@
-# Budget Lite
+# Personal Budget Insights Dashboard
 
-Budget Lite is a React personal finance dashboard for tracking income, expenses, spending categories, and monthly budget limits. I built it as a portfolio project to practice working with real user data, calculated totals, and a clean dashboard-style interface.
+Personal Budget Insights Dashboard is a React personal finance dashboard for tracking income, expenses, spending categories, and monthly budget limits. I built it as a portfolio project to practice working with real user data, calculated totals, and a clean dashboard-style interface.
 
 ## Features
 
@@ -56,7 +56,7 @@ npm run build
 
 ## Repository Name Ideas
 
-1. `personal-budget-tracker-dashboard`
+1. `budget-insights-dashboard`
 2. `personal-finance-planning-dashboard`
 3. `monthly-expense-tracker-react`
 
@@ -70,8 +70,12 @@ React personal finance dashboard for tracking income, expenses, category budgets
 
 ## Resume Bullet
 
-- Developed Budget Lite, a React personal finance dashboard with transaction tracking, category budgets, calculated financial summaries, local storage persistence, and JSON/CSV export tools.
+- Developed a personal finance dashboard for tracking income, expenses, category budgets, and exportable records.
 
 ## LinkedIn Project Description
 
-Budget Lite is a personal finance dashboard I built with React to practice handling user-entered data and turning it into useful summaries. The app supports income and expense tracking, category budgets, search/filter tools, local storage, and JSON/CSV exports. It helped me improve my React form handling, calculated UI state, and dashboard layout skills.
+Personal Budget Insights Dashboard is a personal finance dashboard I built with React to practice handling user-entered data and turning it into useful summaries. The app supports income and expense tracking, category budgets, search/filter tools, local storage, and JSON/CSV exports. It helped me improve my React form handling, calculated UI state, and dashboard layout skills.
+
+## Short Portfolio Description
+
+A React personal finance dashboard for tracking income, expenses, category budgets, and exportable records.
