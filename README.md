@@ -56,9 +56,9 @@ npm run build
 
 ## Repository Name Ideas
 
-1. `budget-tracker-dashboard`
-2. `personal-finance-planner`
-3. `budgetlite-dashboard`
+1. `personal-budget-tracker-dashboard`
+2. `personal-finance-planning-dashboard`
+3. `monthly-expense-tracker-react`
 
 ## GitHub About
 
